@@ -1,0 +1,62 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Map1",
+            "id": "d9d219d1-997f-4396-b96d-9d122a4f28f6",
+            "actions": [
+                {
+                    "name": "A",
+                    "type": "Button",
+                    "id": "1d90db6a-1b34-4b82-9056-27329424cf31",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "572093b4-0501-47f7-a358-1253a9187dab",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Map2",
+            "id": "00e41c36-891c-4af3-b393-2a2b5403d482",
+            "actions": [
+                {
+                    "name": "A",
+                    "type": "Button",
+                    "id": "4aa66667-fa50-458a-876f-80aeaf729e26",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6f06fe71-9cff-48e4-a050-39f864fcfe38",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

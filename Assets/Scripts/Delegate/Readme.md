@@ -1,0 +1,3 @@
+- GameObject销毁后，对其引用将丢失
+- GameObject销毁后，对其所挂载的脚本的引用不会丢失
+- Component移除后，销毁（Destroy()）后，对其引用不会丢失
